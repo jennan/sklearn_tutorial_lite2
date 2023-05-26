@@ -17,7 +17,7 @@ Recordings of the original workshop are available on Youtube:
 
 ## Installation Notes
 
-You can run the notebooks directly in your web browser at https://jennan.github.io/sklearn_tutorial_lite.
+You can run the notebooks directly in your web browser at https://jennan.github.io/sklearn_tutorial_lite2.
 
 If you prefer to run on your own computer then we recommend that you download and install [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
 Once Miniconda is installed, navigate to your local copy of the repository and use the following command to create a Conda environment with all required packages:
